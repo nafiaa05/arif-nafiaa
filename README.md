@@ -11,4 +11,4 @@ Aspiring Data Analyst passionate about data analysis and visualization.
 - NumPy
 
 ## Projects
-- Voice-Controlled Online Exam Assistant
+- Voice-Control Exam Assistant
