@@ -1,2 +1,14 @@
-# arif-nafiaa
-Aspiring Data Analyst passionate about Python, SQL, Power BI, and Data Visualization.
+# Hi, I'm Arif 👋
+
+Aspiring Data Analyst passionate about data analysis and visualization.
+
+## Skills
+- Python
+- SQL
+- Power BI
+- Tableau
+- Pandas
+- NumPy
+
+## Projects
+- Voice-Controlled Online Exam Assistant
